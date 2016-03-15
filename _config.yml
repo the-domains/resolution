@@ -1,0 +1,28 @@
+name: Resolution
+favicon: null
+layout_spectrum: 0.7399029145017266
+typography_spectrum: 0.5203070158604532
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.10780305601656437
+  lightness: 0.5623472209554166
+  saturation: 0.8783786855638027
+  rhythmicContrast: 0.20532590383663774
+purpose: []
