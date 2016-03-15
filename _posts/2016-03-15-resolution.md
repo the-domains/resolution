@@ -5,23 +5,25 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-15T04:07:49.400Z'
-dateModified: '2016-03-15T04:07:48.876Z'
+description: Focus on what matters most. Live the life you always want to.
+datePublished: '2016-03-15T04:53:58.408Z'
+dateModified: '2016-03-15T04:53:54.808Z'
+title: RESOLUTION
+author: []
+sourcePath: _posts/2016-03-15-resolution.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: RESOLUTION
-author: []
-sourcePath: _posts/2016-03-15-resolution.md
-published: true
 url: resolution/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb57a559-2ab1-4c5d-b409-2ba678032fcf.jpg)
+
 # RESOLUTION
 
 Focus on what matters most. Live the life you always want to.
